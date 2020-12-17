@@ -11,3 +11,5 @@ Webdesignerin
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilhelmine-erber&show_icons=true&theme=synthwave)](https://github.com/wilhelmine-erber/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilhelmine-erber&layout=compact)](https://github.com/wilhelmine-erber/github-readme-stats)
+
+[![wilhelmine's wakatime stats](https://github-readme-stats.vercel.app/api/wilhelmine-erber?username=wilhelmine-erber)](https://github.com/anuraghazra/github-readme-stats)
