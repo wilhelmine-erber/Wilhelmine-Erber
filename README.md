@@ -12,4 +12,4 @@ Webdesignerin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilhelmine-erber&layout=compact)](https://github.com/wilhelmine-erber/github-readme-stats)
 
-[![wilhelmine's wakatime stats](https://github-readme-stats.vercel.app/api/wilhelmine-erber?username=wilhelmine-erber)](https://github.com/anuraghazra/github-readme-stats)
+[![wilhelmine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilhelmine-erber)](https://github.com/anuraghazra/github-readme-stats)
