@@ -9,3 +9,5 @@ Webdesignerin
 - 💬 Ask me about **HTML/CSS**
 
 [![Wilhelmine's github stats](https://github-readme-stats.vercel.app/api?username=wilhelmine-erber&show_icons=true&theme=synthwave)](https://github.com/wilhelmine-erber/github-readme-stats)
+
+[![Wilhelmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilhelmine-erber)](https://github.com/wilhelmine-erber/github-readme-stats)
