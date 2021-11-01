@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Wilhelmine
-Webdesignerin
+Full Stack Webdeveloper
 
 - 🔭 I’m currently working on **HTML/CSS/JavaScript/React/Node**
 - 🌱 I’m currently learning **Express/Material UI**
