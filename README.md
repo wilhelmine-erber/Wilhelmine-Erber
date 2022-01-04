@@ -7,4 +7,4 @@ Full Stack Webdeveloper
 
 [![Wilhelmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilhelmine-erber&theme=synthwave)](https://github.com/wilhelmine-erber/github-readme-stats)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilhelmine-erber&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilhelmine-erber&theme=tokyonight)
