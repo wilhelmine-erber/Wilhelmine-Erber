@@ -1,4 +1,4 @@
-## Hi
+## 
  I'm Wilhelmine 👩‍💻
  
 `Full Stack Webdeveloper`
