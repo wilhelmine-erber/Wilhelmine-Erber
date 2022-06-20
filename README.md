@@ -1,7 +1,7 @@
 ## 
  I'm Wilhelmine 👩‍💻
  
-`Full Stack Webdeveloper`
+`Full Stack Web Developer`
 
  I’m currently working on **JavaScript / Node / React** and learning **Express / Material UI / REST API**
  ##
