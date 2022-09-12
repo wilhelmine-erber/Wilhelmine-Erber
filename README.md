@@ -3,6 +3,6 @@
  
 `Full Stack Web Developer`
 
- I’m currently working on **JavaScript / Node / Express / React** and learning **REST API**
- ##
+ I’m currently working on **JavaScript / Node / Express ** and **REST API**
+ I always learning React 🦚
  
