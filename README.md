@@ -2,6 +2,7 @@
  Hi, I'm Wilhelmine 👩‍💻
  
 `Full Stack Web Developer`
+
 `Assisstant Teacher`
 
  I’m currently working on **JavaScript / Node / Express** and **REST API** and I'm always learning React 🦚
