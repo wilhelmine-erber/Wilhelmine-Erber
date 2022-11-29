@@ -1,20 +1,19 @@
 ## 
- I'm Wilhelmine 👩‍💻
+ Hi, I'm Wilhelmine 👩‍💻
  
 `Full Stack Web Developer`
+`Assisstant Teacher`
 
- I’m currently working on **JavaScript / Node / Express** and **REST API**
+ I’m currently working on **JavaScript / Node / Express** and **REST API** and I'm always learning React 🦚
  
- I always learning React 🦚
- 
-![javascript](./img/javascript.png)
-![bootstrap](./img/bootstrap.png)
-![css3](./img/css3.png)
+
+![visual-studio](./img/visual-studio.png)
 ![html5](./img/html5.png)
-![nodejs](./img/nodejs.png)
-![mongodb](./img/mongodb.png)
-![react](./img/react.png)
+![css3](./img/css3.png)
 ![sass](./img/sass.png)
 ![tailwind-css](./img/tailwind-css.png)
-![visual-studio](./img/visual-studio.png)
-
+![bootstrap](./img/bootstrap.png)
+![javascript](./img/javascript.png)
+![nodejs](./img/nodejs.png)
+![react](./img/react.png)
+![mongodb](./img/mongodb.png)
