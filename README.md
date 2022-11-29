@@ -7,3 +7,6 @@
  
  I always learning React 🦚
  
+ ```
+<box-icon type='logo' name='mongodb'></box-icon>
+```
