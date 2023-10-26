@@ -5,7 +5,7 @@
 
 `Assisstant Teacher`
 
- I’m currently working on **JavaScript / Node / Express** and **REST API** and I'm always learning React 🦚
+ I’m currently working on **JavaScript/TypeScript** and **REST API** and I'm always learning React 🦚
  
 
 ![visual-studio](./img/visual-studio.png)
