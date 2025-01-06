@@ -3,7 +3,7 @@
  
 `Full Stack Web Developer`
 
-`Assisstant Teacher`
+`Junior Teacher`
 
  I’m currently working on **JavaScript/TypeScript** and **REST API** and I'm always learning React 🦚
  
