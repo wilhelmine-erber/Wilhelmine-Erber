@@ -21,18 +21,22 @@
 ### 🛠️ Tech Stack
 
 #### Frontend
-![html5](./img/html5.png)
-![css3](./img/css3.png)
-![sass](./img/sass.png)
-![tailwind-css](./img/tailwind-css.png)
-![bootstrap](./img/bootstrap.png)
-![javascript](./img/javascript.png)
-![react](./img/react.png)
+![html5](./img/html.svg)
+![css3](./img/css.svg)
+![sass](./img/sass.svg)
+![tailwind-css](./img/twcss.svg)
+![bootstrap](./img/bts.svg)
+![javascript](./img/js.svg)
+![typescript](./img/ts.svg)
+![react](./img/react.svg)
 
 #### Backend & Tools
-![nodejs](./img/nodejs.png)
-![mongodb](./img/mongodb.png)
-![visual-studio](./img/visual-studio.png)
+![nodejs](./img/node.svg)
+![express](./img/next.svg)
+![vite](./img/vite.svg)
+![next](./img/next2.svg)
+![mongodb](./img/mong.svg)
+![postgresql](./img/postgresql.svg)
 
 ---
 
@@ -40,5 +44,5 @@
 > I love learning, teaching, and collaborating with others.  
 > If you're working on something exciting or want to chat tech, let's connect!
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dein-profil](https://www.linkedin.com/in/wilhelmine-erber-248491217/))
+![LinekdIn](./img/linkedin.svg)(https://www.linkedin.com/in/wilhelmine-erber-248491217/))
 
