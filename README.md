@@ -44,5 +44,5 @@
 > I love learning, teaching, and collaborating with others.  
 > If you're working on something exciting or want to chat tech, let's connect!
 
-![LinekdIn](./img/linkedin.svg)(https://www.linkedin.com/in/wilhelmine-erber-248491217/))
+![https://www.linkedin.com/in/wilhelmine-erber-248491217/](./img/linkedin.svg)
 
